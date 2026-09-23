@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./Banner.png" alt="Aisul Islam - Web Developer" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Aisul Islam</h1>
 
 <h3 align="center">Full-Stack Web Developer | React & Next.js</h3>
