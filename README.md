@@ -106,31 +106,136 @@
 
 ---
 
-## 📊 GitHub Profile
+# 📊 GitHub Analytics
 
 <table align="center">
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=aisulcodes&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent"
-        alt="Aisul Islam GitHub Profile Stats"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aisulcodes&theme=tokyonight"
+        alt="GitHub Analytics"
       />
     </td>
-
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisulcodes&layout=compact&hide_border=true&langs_count=8&theme=transparent"
-        alt="Aisul Islam Top Languages"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aisulcodes&theme=tokyonight"
+        alt="GitHub Profile Details"
       />
     </td>
   </tr>
 </table>
 
+---
+
+## 📈 Contribution Activity
+
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aisulcodes&hide_border=true&theme=transparent"
-    alt="Aisul Islam GitHub Streak Stats"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aisulcodes&theme=react-dark&hide_border=true&area=true"
+    alt="Aisul Islam Contribution Activity Graph"
+    width="100%"
   />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=aisulcodes&theme=tokyonight&hide_border=true"
+    alt="Aisul Islam GitHub Streak"
+  />
+</p>
+
+---
+
+## 💻 Top Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisulcodes&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    alt="Aisul Islam Top Languages"
+  />
+</p>
+
+---
+
+## 📅 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aisulcodes&theme=github-compact&hide_border=true&area=false&custom_title=Commit%20Activity"
+    alt="Aisul Islam Commit Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+## 📌 GitHub Overview
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aisulcodes&theme=tokyonight"
+    alt="GitHub Contribution Overview"
+    width="100%"
+  />
+</p>
+
+---
+
+## ⭐ GitHub Highlights
+
+<p align="center">
+  <img
+    src="https://img.shields.io/github/followers/aisulcodes?style=for-the-badge&logo=github&label=Followers"
+    alt="GitHub Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/aisulcodes?style=for-the-badge&logo=github&label=Stars"
+    alt="GitHub Stars"
+  />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+  <a href="https://github.com/aisulcodes/PROJECT-1">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aisulcodes&repo=PROJECT-1&theme=tokyonight&hide_border=true"
+      alt="Featured Project 1"
+    />
+  </a>
+
+  <a href="https://github.com/aisulcodes/PROJECT-2">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aisulcodes&repo=PROJECT-2&theme=tokyonight&hide_border=true"
+      alt="Featured Project 2"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/aisulcodes/PROJECT-3">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aisulcodes&repo=PROJECT-3&theme=tokyonight&hide_border=true"
+      alt="Featured Project 3"
+    />
+  </a>
+
+  <a href="https://github.com/aisulcodes/PROJECT-4">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=aisulcodes&repo=PROJECT-4&theme=tokyonight&hide_border=true"
+      alt="Featured Project 4"
+    />
+  </a>
+
 </p>
 
 ---
@@ -151,10 +256,22 @@
 ## 🎯 Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"
+    alt="React Next.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="TypeScript"
+  />
+  <img
+    src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
+    alt="Node.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="MongoDB"
+  />
 </p>
 
 ---
@@ -162,6 +279,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
+
   <a href="mailto:mdaisul01@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
@@ -175,6 +293,7 @@
       alt="GitHub"
     />
   </a>
+
 </p>
 
 ---
