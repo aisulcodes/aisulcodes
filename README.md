@@ -6,12 +6,10 @@
 <h1 align="center">Hi 👋, I'm Aisul Islam</h1>
 
 <p align="center">
-  <a href="https://github.com/aisulcodes">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications"
-      alt="Typing SVG"
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;React+%7C+Next.js+Developer+%E2%9A%A1;Building+Modern+Web+Applications+%F0%9F%92%BB"
+    alt="Full-Stack Web Developer"
+  />
 </p>
 
 <p align="center">
